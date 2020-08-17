@@ -14,14 +14,14 @@ Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır
 Bu kursa katılabilmeniz için herhangi bir programlama dilinde çalışmış olmanız gerekmektedir.
 
 ## Format
-+ `React Native ile Platform Bağımsız MObil Programlama Kursu` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ `React Native ile Platform Bağımsız Mobil Programlama Kursu` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen `3` gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
 
 ## Kurs İçeriği
-[Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/kurs_icerigi.md)
+[Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/kurs_programi.md)
 
 ## Kurs Süresi
 
@@ -42,6 +42,6 @@ Kurs `C ve Sistem Programcıları Derneği` Başkan Yardımcısı `Oğuz Karan` 
 [Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-__Online-Unix-Linux-Sistem-Programlama-Kursu-__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Oğuz Karan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
+__Online-Unix-Linux-Sistem-Programlama-Kursu-__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Oğuz Karan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:oguz@csystem.org)
 
 
