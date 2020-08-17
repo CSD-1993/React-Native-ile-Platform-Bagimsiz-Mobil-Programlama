@@ -1,4 +1,4 @@
-# React Native ile Platform Bağımsız Mobil Programlama
+# React Native ile Platform Bağımsız Mobil Programlama Kurs Programı
 
 ## Javascript programlama dili
 + Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik Javascript programlama dili anlatılacaktır:
