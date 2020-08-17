@@ -1,131 +1,50 @@
 # React Native ile Platform Bağımsız Mobil Programlama
 
-## Javascript programlama dili
-+ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik Javascript programlama dili anlatılacaktır:
-+ Temel türler
-+ Tür dönüşümleri
-+ Fonksiyonlar
-+ Kontrol deyimleri (if, while, do-while, for, break, continue, switch, ...)
-+ Nesneler
-+ Fonksiyon türleri
-+ Diziler
-+ Lambda ifadeleri
-+ Prototype kavramı
-+ Sınıflar
++ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından düzenlenmektedir. Kurs `11 Şubat 2020` tarihinde başlayacaktır.
+
++ Kursun temel özellikleri şöyle özetlenebilir:
+
++ Kurs React Native ve Javascript kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
+
++ `React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklı pek çok uygulama yapılmaktadır.
+
++ Kurs platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir
+
++ Kurs yüzeysel değil ayrıntılıdır. 
+
+## Ön Koşul
+
+Bu kursa katılabilmeniz için herhangi bir programlama dilinde çalışmış olmanız gerekmektedir.
+
+## Format
++ `UNIX/Linux Sistem Programlama` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
+
++ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
+
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen `3` gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
+
+## Kurs İçeriği
+[Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/kurs_icerigi.md)
+
+## Kurs Süresi
+
+Eğitim Süresi `162` Saattir.
+
+## Ders Saatleri
+
+Dersler hafta içi `Salı – Perşembe` günleri saat `19.30 – 22.30` saatleri arasında `3`’er saat olarak yapılacaktır.
+
+## Kurs Ücreti
+Programın toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere `(öğrencilik durumunu belgelemeleri kaydıyla)` %10 indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse `2` taksitte ödeyebilirler.
+
+## Eğitmen
+
+Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
+
+## Kursa Kayıt
+[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
+
+## Sık Sorulan Sorular
+`Online-Unix-Linux-Sistem-Programlama-Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Kaan Aslan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
 
 
-## React Native Ortamınına İlişkin Temel Kavramlar
-
-+ React Native temel özellikleri
-+ React Native avantajları
-+ React Native sınırları
-+ React Native ortamının kurulumu
-+ Android Studio kurulumu
-+ Android için emulator yapılandırması
-+ Yaşam ömrü (lifecycle) fonksiyonları
-
-## Container Component 
-+ Container component kavramı
-+ Container component çalışma sistematiği
-+ Örnekler
-
-## Presentational Component 
-+ Presentational component kavramı
-+ Presentational component çalışma sistematiği
-+ Örnekler
-
-## State ve Props kavramları
-+ State kavramı ve kullanımı
-+ Mutable state kavramı
-+ Props
-
-## Styling
-
-+ Styling kavramı
-+ Styling'in uygulama içerisinde kullanımı
-+ View bileşenlerine styling uygulanması
-
-## Temel Bileşenler
-
-+ View
-+ WebView
-+ Modal
-+ ActivityIndicator
-+ Picker
-+ Status Bar
-+ Switch
-+ Text
-+ Alert
-+ StyleSheet
-
-
-## GUI elemanları
-+ Flexbox
-+ Layout
-+ ListView
-+ Text Input
-+ Scrollview
-+ Images
-+ Buttons (Touchables)
-
-
-## Navigation 
-
-+ React native navigation ve web navigation karşılaştırılması
-+ Navigation based application
-+ Navigation verilerinin saklanması
-
-
-## Platform bağımsız API kullanını
-
-+ Bildirim (notification) işlemleri için Alert API kullanımı
-+ Uygulamanın durumu için AppState API kullanımım
-+ Veri saklama işlemleri için AsyncStorage kullanımı
-+ Clipboard kullanımı için Clipboard API
-+ Kullanıcı ekran işlemleri için Dimensions API kullanımı
-+ Lokasyon için Geolocation API kullanımı
-+ Klavye işlemleri için Keyboard API kullanımı
-+ Kullanıcı bağlantılı/bağlantısız bilgieri için NetInfo kullanımı
-+ Touch ve gesture işlemleri için PanResponder kullanımı
-
-## Network İşlemleri
-
-+ Fetch kullanını
-+ WebSockt kullanımı
-+ Diğer kütüphenelerin kullanımı
-
-## Android sistemlerine yönelik işlemler
-+ Android menü işlemleri, DrawerLayout kullanımı
-+ Android Toolbar
-+ ViewPagerAndroid kullanımı
-+ DatePickerAndroid API
-+ TimerPickerAndroid API
-+ ToastAndroid API
-
-## IOS sistemlerine yönelik işlemler
-
-+ DatePickerIOS
-+ PickerIOS
-+ ProgressViewIOS
-+ SegmentedControlIOS
-+ TabBarIOS
-+ ActionSheetIOS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
