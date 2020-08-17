@@ -1,10 +1,11 @@
 # React Native ile Platform Bağımsız Mobil Programlama
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından düzenlenmektedir. Kurs `11 Şubat 2020` tarihinde başlayacaktır.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
++ Kurs 15 Eylül 2020 Salı günü başlayacaktır.
 
 + Kursun temel özellikleri şöyle özetlenebilir:
 
-+ Kurs React Native ve Javascript kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
++ Kurs _React Native_ ve _Javascript_ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
 
 + `React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklı pek çok uygulama yapılmaktadır.
 
@@ -17,7 +18,7 @@
 Bu kursa katılabilmeniz için herhangi bir programlama dilinde çalışmış olmanız gerekmektedir.
 
 ## Format
-+ `UNIX/Linux Sistem Programlama` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ `React Native ile Platform Bağımsız MObil Programlama Kursu` online olarak gerçek zamanlı verilmektedir. `Udemy, Pluralsight` ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -39,7 +40,7 @@ Programın toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere `(öğrencil
 
 ## Eğitmen
 
-Kurs `C ve Sistem Programcıları Derneği` başkan yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
+Kurs `C ve Sistem Programcıları Derneği` Başkan Yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
 
 ## Kursa Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
