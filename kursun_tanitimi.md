@@ -39,9 +39,9 @@ Programın toplam ücreti `KDV dahil 3.200 TL`‘dir. Öğrencilere `(öğrencil
 Kurs `C ve Sistem Programcıları Derneği` Başkan Yardımcısı `Oğuz Karan` tarafından verilmektedir. `Oğuz Karan` çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
 
 ## Kursa Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
+[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZEvduGurT0sHN0779WMfRNrxvbm0fuU_s2v). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-__Online-Unix-Linux-Sistem-Programlama-Kursu-__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Oğuz Karan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+__React Native ile Platform Bağımsız Mobil Programlama__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Oğuz Karan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
 
 
