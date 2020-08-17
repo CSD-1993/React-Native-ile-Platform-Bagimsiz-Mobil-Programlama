@@ -1,17 +1,13 @@
 # React Native ile Platform Bağımsız Mobil Programlama
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs 15 Eylül 2020 Salı günü başlayacaktır.
++ Kurs __15 Eylül 2020__ Salı günü başlayacaktır.
 
-+ Kursun temel özellikleri şöyle özetlenebilir:
-
-+ Kurs _React Native_ ve _Javascript_ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
-
-+ `React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklı pek çok uygulama yapılmaktadır.
-
-+ Kurs platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir
-
-+ Kurs yüzeysel değil ayrıntılıdır. 
++ Kursun temel özellikleri şöyle özetlenebilir:<br>
+Kurs _React Native_ ve _Javascript_ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir.<br>
+`React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklıçok sayıda uygulama yapılmaktadır.<br>
+Kurs, platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir.<br>
+Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır. 
 
 ## Ön Koşul
 
