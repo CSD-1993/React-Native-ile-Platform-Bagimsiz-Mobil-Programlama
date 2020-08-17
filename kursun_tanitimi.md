@@ -44,7 +44,6 @@
 + Styling kavramı
 + Styling'in uygulama içerisinde kullanımı
 + View bileşenlerine styling uygulanması
-+
 
 ## Temel Bileşenler
 
