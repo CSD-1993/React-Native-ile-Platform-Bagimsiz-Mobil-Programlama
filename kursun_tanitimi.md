@@ -42,6 +42,6 @@ Kurs `C ve Sistem Programcıları Derneği` Başkan Yardımcısı `Oğuz Karan` 
 [Katılım için önce ön kayıt yaptırmalısınız](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile `Zoom`'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-`Online-Unix-Linux-Sistem-Programlama-Kursu` hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Kaan Aslan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
+__Online-Unix-Linux-Sistem-Programlama-Kursu-__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da `Oğuz Karan`'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
 
 
