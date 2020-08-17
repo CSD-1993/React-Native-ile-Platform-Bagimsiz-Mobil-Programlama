@@ -5,7 +5,7 @@
 
 + Kursun temel özellikleri şöyle özetlenebilir:<br>
 Kurs _React Native_ ve _Javascript_ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir.<br>
-`React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklıçok sayıda uygulama yapılmaktadır.<br>
+`React Native ile Platform Bağımsız Mobil Programlama` uygulamalı bir kurstur. Kursta irili ufaklı çok sayıda uygulama yapılmaktadır.<br>
 Kurs, platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir.<br>
 Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır. 
 
