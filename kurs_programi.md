@@ -1,7 +1,7 @@
 # React Native ile Platform Bağımsız Mobil Programlama Kurs Programı
 
 ## Javascript programlama dili
-+ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik Javascript programlama dili anlatılacaktır:
+Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik __Javascript__ programlama dili anlatılacaktır:
 + Temel türler
 + Tür dönüşümleri
 + Fonksiyonlar
@@ -22,28 +22,28 @@
 + React Native ortamının kurulumu
 + Android Studio kurulumu
 + Android için emulator yapılandırması
-+ Yaşam ömrü (lifecycle) fonksiyonları
++ Yaşam ömrü _(lifecycle)_ fonksiyonları
 
 ## Container Component 
-+ Container component kavramı
-+ Container component çalışma sistematiği
++ _Container component_ kavramı
++ _Container component_ çalışma sistematiği
 + Örnekler
 
 ## Presentational Component 
-+ Presentational component kavramı
-+ Presentational component çalışma sistematiği
++ _Presentational component_ kavramı
++ _Presentational component_ çalışma sistematiği
 + Örnekler
 
 ## State ve Props kavramları
-+ State kavramı ve kullanımı
-+ Mutable state kavramı
-+ Props
++ _State_ kavramı ve kullanımı
++ _Mutable state_ kavramı
++ _Props_
 
 ## Styling
 
-+ Styling kavramı
-+ Styling'in uygulama içerisinde kullanımı
-+ View bileşenlerine styling uygulanması
++ _Styling_ kavramı
++ _Styling_'in uygulama içerisinde kullanımı
++ _View_ bileşenlerine styling uygulanması
 
 ## Temel Bileşenler
 
@@ -91,7 +91,7 @@
 ## Network İşlemleri
 
 + Fetch kullanını
-+ WebSockt kullanımı
++ WebSocket kullanımı
 + Diğer kütüphenelerin kullanımı
 
 ## Android sistemlerine yönelik işlemler
