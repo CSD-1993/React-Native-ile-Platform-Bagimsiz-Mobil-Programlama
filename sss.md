@@ -1,5 +1,3 @@
-# React Native ile Platform Bağımsız Mobil Programlama
-
 Aşağıda __Oğuz Karan__ tarafından verilen __React Native ile Platform Bagimsiz Mobil Programlama__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
