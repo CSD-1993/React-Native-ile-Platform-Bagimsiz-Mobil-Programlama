@@ -32,7 +32,7 @@ Eğitim Süresi __162__ Saattir.
 Dersler hafta içi __Salı – Perşembe__ günleri saat __19.30 – 22.30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
-Programın toplam ücreti __3.200 TL__'dir. Öğrencilere _(öğrencilik durumunu belgelemeleri kaydıyla)_ __%10__ indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2__ taksitte ödeyebilirler.
+Programın toplam ücreti __3.400 TL__'dir. Öğrencilere _(öğrencilik durumunu belgelemeleri kaydıyla)_ __%10__ indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Eğitmen
 
