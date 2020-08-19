@@ -1,10 +1,10 @@
 # React Native ile Platform Bağımsız Mobil Programlama
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından düzenlenmektedir.
++ Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
 + Kursun __15 Eylül 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi `162` saattir. Dersler `Salı, Perşembe ve Cuma` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
++ Toplam kurs süresi __162__ saattir. Dersler __Salı, Perşembe ve Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/kursun_tanitimi.md)
