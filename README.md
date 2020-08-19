@@ -9,5 +9,5 @@
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/kursun_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/kurs_programi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/sss.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEvduGurT0sHN0779WMfRNrxvbm0fuU_s2v)
