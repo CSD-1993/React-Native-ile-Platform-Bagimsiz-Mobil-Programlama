@@ -36,7 +36,29 @@ Programın toplam ücreti __3.200 TL__'dir. Öğrencilere _(öğrencilik durumun
 
 ## Eğitmen
 
-Kurs __C ve Sistem Programcıları Derneği__ Başkan Yardımcısı __Oğuz Karan__ tarafından verilmektedir. __Oğuz Karan__ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
+Kurs __C ve Sistem Programcıları Derneği__ Başkan Yardımcısı __Oğuz Karan__ tarafından verilmektedir. __Oğuz Karan__ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.</br>
+Eğitim ve danışmanlık verdiği kurumlar arasında 
+[Tübitak](https://www.tubitak.gov.tr/), 
+[Havelsan](https://www.havelsan.com.tr/), 
+[Roketsan](http://www.roketsan.com.tr/),
+[Netaş](http://www.netas.com.tr/ana-sayfa/),
+[Siemens](https://www.siemens-home.bsh-group.com/tr/),
+[Arçelik](https://www.arcelik.com.tr/),
+[Beko](https://www.beko.com.tr/),
+[Sunny Elektronik](https://www.sunny.com.tr/),
+[BSH](https://www.bsh-group.com/tr/),
+[Profilo](https://www.profilo.com/),
+[İsbak A.Ş.](https://www.ibb.istanbul/CorporateUnit/Detail/164),
+[Belbim A.Ş](https://www.ibb.istanbul/CorporateUnit/Detail/156),
+[İspark](https://ispark.istanbul/),
+[Hugin](http://hugin.com.tr/tr/home),
+[Cardtek](https://www.paycore.com/),
+[Crytek](https://www.crytek.com/),
+[Erdemir](https://www.erdemir.com.tr/),
+[İsdemir](https://www.isdemir.com.tr/),
+[Asis Elektronik](https://www.asiselektronik.com.tr/),
+[Ingenico](https://www.ingenico.com.tr/), 
+[Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Kursa Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZEvduGurT0sHN0779WMfRNrxvbm0fuU_s2v)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
