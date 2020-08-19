@@ -36,12 +36,12 @@ Programın toplam ücreti __3.200 TL__'dir. Öğrencilere _(öğrencilik durumun
 
 ## Eğitmen
 
-Kurs __C ve Sistem Programcıları Derneği__ Başkan Yardımcısı `Oğuz Karan` tarafından verilmektedir. __Oğuz Karan__ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
+Kurs __C ve Sistem Programcıları Derneği__ Başkan Yardımcısı __Oğuz Karan__ tarafından verilmektedir. __Oğuz Karan__ çeşitli pozisyonlarda pek çok projede bulunmuş ve pek çok kuruma eğitim vermekte ve danışmanlık yapmaktadır.
 
 ## Kursa Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZEvduGurT0sHN0779WMfRNrxvbm0fuU_s2v)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-__React Native ile Platform Bağımsız Mobil Programlama__ kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını **[sık sorulan sorular](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/sss.md)** sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan **[C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/)** ya da __Oğuz Karan__'a bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
+__React Native ile Platform Bağımsız Mobil Programlama__ kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını **[sık sorulan sorular](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/sss.md)** sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan **[C ve Sistem Programcıları Derneği](http://www.csystem.org/)**  ile iletişime geçebilir ya da __Oğuz Karan__'a bir __[e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)__
 
 
