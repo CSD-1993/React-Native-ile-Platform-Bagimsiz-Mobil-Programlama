@@ -4,7 +4,7 @@
 + Kursun __15 Eylül 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __162__ saattir. Dersler __Salı, Perşembe ve Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __162__ saattir. Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Kursla ilgili bağlantılar
