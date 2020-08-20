@@ -5,6 +5,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __162__ saattir. Dersler __Salı, Perşembe ve Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Kursun toplam ücreti __3.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __3.100__ TL'dir. Kurs ücretini __3__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/React-Native-ile-Platform-Bagimsiz-Mobil-Programlama/blob/master/kursun_tanitimi.md)
