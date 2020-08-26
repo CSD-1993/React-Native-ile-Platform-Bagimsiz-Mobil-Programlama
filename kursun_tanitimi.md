@@ -7,11 +7,7 @@
 
 + __React Native ile Platform Bağımsız Mobil Programlama__ uygulamalı bir kurstur. Kursta irili ufaklı çok sayıda uygulama yapılmaktadır
 
-+ Kurs, platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir
-
-+ Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır. 
-
-+ Bu kurs katılımcıların Android ve IOS işletim sistemleri için platform bağımsız (cross platform) profesyonel uygulama geliştirmelerini sağlayacaktır
++ Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır
 
 + Kurs içerisinde Javascript programlama dili de anlatılacaktır
 
