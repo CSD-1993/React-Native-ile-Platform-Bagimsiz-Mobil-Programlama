@@ -3,8 +3,6 @@
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kurs __15 Eylül 2020__ Salı günü başlayacaktır.
 
-+ Kursun temel özellikleri şöyle özetlenebilir:<br>
-
 + Kurs __React Native__ ve __Javascript__ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
 
 + __React Native ile Platform Bağımsız Mobil Programlama__ uygulamalı bir kurstur. Kursta irili ufaklı çok sayıda uygulama yapılmaktadır
