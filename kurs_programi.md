@@ -12,6 +12,7 @@ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik
 + Lambda ifadeleri
 + Prototype kavramı
 + Sınıflar
++ import bildirimleri
 
 
 ## React Native Ortamınına İlişkin Temel Kavramlar
