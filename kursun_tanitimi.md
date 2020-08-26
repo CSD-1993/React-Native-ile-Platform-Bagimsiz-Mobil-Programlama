@@ -4,24 +4,24 @@
 + Kurs __15 Eylül 2020__ Salı günü başlayacaktır.
 
 + Kursun temel özellikleri şöyle özetlenebilir:<br>
-Kurs __React Native__ ve __Javascript__ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir.<br>
-__React Native ile Platform Bağımsız Mobil Programlama__ uygulamalı bir kurstur. Kursta irili ufaklı çok sayıda uygulama yapılmaktadır.<br>
-Kurs, platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir.<br>
-Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır. 
+
++ Kurs __React Native__ ve __Javascript__ kullanılarak platform bağımsız mobil uygulamalar geliştirmek isteyenlere yöneliktir
+
++ __React Native ile Platform Bağımsız Mobil Programlama__ uygulamalı bir kurstur. Kursta irili ufaklı çok sayıda uygulama yapılmaktadır
+
++ Kurs, platform bağımsız mobil uygulama konusunda kendisini geliştirmek isteyenler içindir
+
++ Kurs yüzeysel değil profesyonel düzeyde üretime yönelik ve ayrıntılıdır. 
 
 + Bu kurs katılımcıların Android ve IOS işletim sistemleri için platform bağımsız (cross platform) profesyonel uygulama geliştirmelerini sağlayacaktır
 
-+ Uygulama geliştirmede Javascript (Ecmascript) programalama dili kullanılacaktır
-
-+ Kurs içerisinde Javascript programlama dili anlatılacaktır
++ Kurs içerisinde Javascript programlama dili de anlatılacaktır
 
 + Uygulama geliştirmede yeni nesil Javascript programlama teknikleri kullanılacaktır
 
 + İşletim sistemlerine özgü geliştirme (native), platformlar arasındaki benzerlikler ve farklılıklar açısndan ele alınacaktır
 
 + Kurs içerisinde daha sonra da profesyonel uygulamalarda kullanılabilecek çeşitli yardımcı kodlar (modüller) yazılacaktır ve eğitmen tarafından yazılmış modüller de ayrıca paylaşılacaktır
-
-+ Kurs içerisinde irili ufaklı bir çok profesyonel uygulama geliştirilecektir
 
 + Mobil uygulama geliştirmede dikkat edilmesi gereken profesyonel teknikler de detaylı olarak anlatılacaktır
 
